@@ -30,7 +30,7 @@ Start the server
 
 Hospital management system is a website which can control all the management related to a hospital, like admitting patients, creating reports of patients and many more thing online.
 
-![1](https://user-images.githubusercontent.com/100460788/215811132-40070d36-862a-4154-adc0-903c6fa65394.jpg)
+
 
 ## Tech Stack
 
