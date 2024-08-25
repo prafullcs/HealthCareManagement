@@ -32,22 +32,6 @@ Hospital management system is a website which can control all the management rel
 
 
 
-## Tech Stack
-
-
-
-**Server:**
-
-- **Node Js**
-- **Mongo DB**
-- **Express Js**
-- **JWT**
-- **Nodemailer**
-
-## Deployment
-
-- **Client**  (Netlify)
-- **Server** - (Cyclic)
 
 
 ## Features
